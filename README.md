@@ -1,4 +1,2 @@
 # farm-immersive
-data analysis and data viz for the farm immersive blog: https://www.farmimmersive.com
-
-Farm Immersive is a weekly blog exploring global food and agriculture innovations.
+A collaborative project providing data analysis and data viz for the [Farm Immersive](https://www.farmimmersive.com), a weekly blog exploring global food and agriculture innovations.
